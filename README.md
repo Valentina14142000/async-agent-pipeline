@@ -39,7 +39,7 @@ A lightweight, asynchronous agent pipeline built with **FastAPI**, **Pydantic**,
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/Valentina14142000/async-agent-pipeline.git](https://github.com/Valentina14142000/async-agent-pipeline.git)
+git clone GitHub repo
 cd async-agent-pipeline
 ```
 
